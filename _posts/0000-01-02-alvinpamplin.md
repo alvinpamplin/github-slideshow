@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+yee yee, a known haircut
 Use the left arrow to go back!
